@@ -14,7 +14,7 @@ const Home: React.FC = () => {
   const categories = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"];
 
   return (
-    <div classNbuname="mx-auto mt-8">
+    <div className="mx-auto mt-8">
       <h1 className="text-3xl font-bold underline mb-4">
         Topic Graph Visualization
       </h1>
